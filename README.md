@@ -6,3 +6,8 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this project, we will try to analyze the data of the passengers in the Titanic and try to find out what sorts of people were likely to survive. In particular, we will apply the tools of machine learning to predict which passengers survived the tragedy.
 
+Exploratory Data Analysis(EDA) has been done on the dataset to know about the Titanic Disaster and applied Machine Learning Algorithms to predict which passenger survived and which paseenger died in the disaster.
+
+K-Fold cross validation is used in our training process and using Grid Search we have find the optimal algorithm for our dataset.
+
+Random Forest is the best performing algorithm with an accuracy of 84.62%
